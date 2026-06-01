@@ -5,8 +5,6 @@
 - 4+ years of experience in Technical & Application Support
 - Experienced in ServiceNow and Zendesk
 - Learning Salesforce Administration
-- Interested in Cloud Technologies and Automation
-
 ## Skills
 - Application Support
 - Incident Management

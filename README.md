@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Manuranjan Singh 👋
 
-<!--
-**manuranjansingh/manuranjansingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Sr. Technical Analyst
+- 3+ years of experience in Technical & Application Support
+- Experienced in ServiceNow and Zendesk
+- Learning Salesforce Administration
+- Interested in Cloud Technologies and Automation
 
-Here are some ideas to get you started:
+## Skills
+- Application Support
+- Incident Management
+- ServiceNow
+- ITSM
+- Zendesk
+- Salesforce
+- Troubleshooting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Salesforce Administration
+- Git & GitHub
+- PowerShell
+- Cloud Fundamentals
+
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/manuranjan-si

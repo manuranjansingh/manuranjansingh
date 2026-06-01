@@ -18,9 +18,6 @@
 
 ## Currently Learning
 - Salesforce Administration
-- Git & GitHub
-- PowerShell
-- Cloud Fundamentals
-
+- 
 ## Connect With Me
 - LinkedIn: www.linkedin.com/in/manuranjan-si

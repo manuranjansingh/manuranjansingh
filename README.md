@@ -2,7 +2,7 @@
 
 ## About Me
 - Sr. Technical Analyst
-- 3+ years of experience in Technical & Application Support
+- 4+ years of experience in Technical & Application Support
 - Experienced in ServiceNow and Zendesk
 - Learning Salesforce Administration
 - Interested in Cloud Technologies and Automation

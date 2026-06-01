@@ -5,7 +5,7 @@
 * Sr. Technical Analyst
 * 4+ years of experience in Technical & Application Support
 * Experienced in ServiceNow, Zendesk, and ITSM Operations
-* Learning Salesforce Administration
+* Building Salesforce Administration Skills
 
 ## Skills
 

@@ -18,6 +18,5 @@
 
 ## Currently Learning
 - Salesforce Administration
-- 
 ## Connect With Me
 - LinkedIn: www.linkedin.com/in/manuranjan-si
